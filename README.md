@@ -22,7 +22,7 @@ Tenho um blog onde compartilho conhecimento através dos projetos e estudos que 
 
 Meu LinkedIn: [clique aqui para acessar](https://www.linkedin.com/in/amandarnascimento/).
 
-Atuo na área de banco de dados e Business Intelligence e minha expertise esta em desenvolver consultas utilizando a linguagem T-SQL e elaborar dashboards utilizando o Power BI. Tenho direcionado meus estudos em Python e análise de dados, otimizando planilhas em Excel, Power Apps e Power Automate. 
+Atuo na área de banco de dados e Business Intelligence e minha expertise esta em desenvolver consultas utilizando a linguagem T-SQL e elaborar dashboards utilizando o Power BI.<br> Tenho direcionado meus estudos em Python e análise de dados, otimizando planilhas em Excel, Power Apps e Power Automate. 
 
 
 Atualmente estou cursando Desenvolvedor Full Stack pela Infinity School, e minha área de estudo esta sendo: 
