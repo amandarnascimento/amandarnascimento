@@ -18,18 +18,18 @@ Here are some ideas to get you started:
 
 ## Oi!  👋
 
+
 Seja muito bem vindo ao meu perfil no GitHub.
 Meu nome é Amanda e sou apaixonada por tecnologia! 
 Tenho um blog onde compartilho conhecimento através dos projetos e estudos que desenvolvo, [clique aqui para acessar](https://www.amandanascimento.com/blog).
+Meu LinkedIn: [clique aqui para acessar](https://www.linkedin.com/in/amandarnascimento/).
 
-Tenho experiência de mais de três anos em <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trêsdsmax/trêsdsmax-original.svg" width="30" height="30" />
+Tenho experiência de mais de três anos em  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="30" height="30" />
+
 
 Atualmente estou cursando Desenvolvedor Full Stack, por isso busco conhecimento em:
 
-Ícone do Python: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="30" height="30" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="30" height="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30" height="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="30" height="30" />
 
-Ícone do JavaScript: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30" height="30" />
 
-Ícone do HTML: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="30" height="30" />
 
-Ícone do SQL Server: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="30" height="30" />
