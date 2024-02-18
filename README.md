@@ -1,6 +1,6 @@
-### Hi there 👋
 
-<!--
+
+<!--### Hi there 
 **amandarnascimento/amandarnascimento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+## Oi!  👋
+Seja muito bem vindo ao meu perfil no GitHub.
+Tenho um blog onde compartilho conhecimento através dos projetos e estudos que desenvolvo. 
+
+Atualmente estou cursando Desenvolvedor Full Stack, por isso busco conhecimento em Python, JavaScript, HTML e CSS.
+
+Ícone do Python:
+![Ícone do Python](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg)
